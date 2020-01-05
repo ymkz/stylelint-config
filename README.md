@@ -17,7 +17,7 @@
 ## Install
 
 ```sh
-yarn add --dev --exact @ymkz/stylelint-config
+yarn add --dev --exact stylelint @ymkz/stylelint-config
 ```
 
 ## Usage
