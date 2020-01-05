@@ -1,0 +1,53 @@
+{
+  "name": "@ymkz/stylelint-config",
+  "version": "1.0.0",
+  "description": "ymkz's stylelint config",
+  "keywords": [
+    "ymkz",
+    "stylelint",
+    "config"
+  ],
+  "homepage": "https://github.com/ymkz/stylelint-config",
+  "bugs": {
+    "url": "https://github.com/ymkz/stylelint-config/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ymkz/stylelint-config"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "ymkz",
+    "email": "ymkzly@gmail.com",
+    "url": "https://github.com/ymkz"
+  },
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "dependencies": {
+    "stylelint-config-prettier": "8.0.0",
+    "stylelint-config-rational-order": "0.1.2",
+    "stylelint-config-recommended": "3.0.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "8.3.4",
+    "@commitlint/config-conventional": "8.3.4",
+    "@ymkz/prettier-config": "1.0.0",
+    "husky": "3.1.0",
+    "lint-staged": "10.0.0-beta.14",
+    "prettier": "1.19.1",
+    "sort-package-json": "1.36.0",
+    "standard-version": "7.0.1",
+    "yarnhook": "0.4.3"
+  },
+  "peerDependencies": {
+    "stylelint": ">=12.0.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
