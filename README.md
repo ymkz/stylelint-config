@@ -3,6 +3,9 @@
 > ymkz's stylelint config
 
 <p>
+  <a href="https://github.com/ymkz/stylelint-config" target="_blank" rel="noopener noreferrer">
+    <img src="https://flat.badgen.net/github/checks/ymkz/stylelint-config?icon=github" />
+  </a>
   <a href="https://www.npmjs.com/package/@ymkz/stylelint-config" target="_blank" rel="noopener noreferrer">
     <img src="https://flat.badgen.net/npm/v/@ymkz/stylelint-config?icon=npm" />
   </a>
